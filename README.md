@@ -3,7 +3,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/NI-KI-TA-KR/Pokedex) ![GitHub last commit](https://img.shields.io/github/last-commit/NI-KI-TA-KR/Pokedex)
 
 <p align="center">
-<img src="/previews/pokedex.png"/>
+<img src="https://github.com/NI-KI-TA-KR/Pokedex/blob/main/previews/Pokedex.png"/>
 </p>
 
 <br>
